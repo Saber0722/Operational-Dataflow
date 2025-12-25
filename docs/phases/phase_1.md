@@ -1,6 +1,6 @@
 # 📘 Phase 1 Documentation — Canonical Modeling & Aggregation Decisions
 
-## Purpose of Phase 1 (in simple terms)
+## Purpose of Phase 1
 
 In Phase 1, we took multiple operational clinical reports (each designed for a specific operational purpose) and converted them into **clean, consistent, subject-centric summary datasets**.
 
