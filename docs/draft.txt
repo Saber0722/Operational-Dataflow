@@ -1,0 +1,23 @@
+Preprocessing
+
+- High-variance filtering
+- ComBat-seq (If the data is not continuous, better for raw RNA counts)
+- Outlier detection (Using PCA or other methods)
+
+Feature Extraction (Along with DEGs)
+
+- RFE, XGBoost feature selection
+- GSVA / ssGSEA pathway scores (For better biologicsl interpretation than raw gene values)
+- Autoencoder latent features
+
+Model Development
+
+- Ensemble Approach
+
+Stacking RF + XGB + AE + Transformer
+Meta-model using Logistic Regression or LightGBM
+Final probability = meta-model output
+
+
+Evaluation
+We can add MCC, Balanced Accuracy, Calibration (Brier score/ calibration curves/scores), DCA (Decision Curve Analysis)

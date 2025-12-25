@@ -1,0 +1,144 @@
+site_id,subject_id,num_days_outstanding,country,study_id
+Site 10,Subject 852,2.0,HKG,None
+Site 1034,Subject 15656,2.0,USA,None
+Site 113,Subject 911,29.0,ITA,Study 8
+Site 12,Subject 22,11.0,KOR,Study 1
+Site 134,Subject 1182,231.0,POL,Study 4
+Site 14,Subject 36,16.0,ESP,Study 1
+Site 15,Subject 39,3.0,CAN,None
+Site 15,Subject 52,10.0,ESP,Study 1
+Site 1648,Subject 30394,12.0,IND,None
+Site 1673,Subject 30791,13.0,TWN,None
+Site 1674,Subject 30856,7.0,TWN,None
+Site 17,Subject 61,11.0,ESP,Study 1
+Site 17,Subject 62,11.0,ESP,Study 1
+Site 177,Subject 1595,18.0,USA,None
+Site 1791,Subject 34338,1.0,ISR,None
+Site 18,Subject 74,15.0,USA,Study 1
+Site 19,Subject 4756,10.0,USA,None
+Site 19,Subject 80,32.0,USA,Study 1
+Site 198,Subject 1725,217.0,JPN,Study 5
+Site 2,Subject 2,45.0,AUS,Study 5
+Site 2,Subject 3,15.0,AUS,Study 5
+Site 2,Subject 4,23.0,AUS,Study 5
+Site 2013,Subject 41289,0.0,USA,None
+Site 2013,Subject 41293,3.0,USA,None
+Site 2165,Subject 47608,2.0,KOR,None
+Site 2165,Subject 47610,4.0,KOR,None
+Site 2165,Subject 47611,2.0,KOR,None
+Site 2169,Subject 47645,16.0,KOR,None
+Site 2176,Subject 47675,42.0,TUR,None
+Site 2177,Subject 47677,2.0,TUR,None
+Site 2183,Subject 47698,3.0,CHN,None
+Site 2185,Subject 47718,2.0,CHN,None
+Site 2185,Subject 47719,4.0,CHN,None
+Site 2186,Subject 47725,2.0,CHN,None
+Site 2186,Subject 47726,3.0,CHN,None
+Site 2186,Subject 47727,3.0,CHN,None
+Site 2187,Subject 47737,8.0,DEU,None
+Site 2188,Subject 47746,2.0,ISR,None
+Site 277,Subject 2339,3.0,FRA,Study 5
+Site 277,Subject 2345,9.0,FRA,Study 5
+Site 277,Subject 2347,17.0,FRA,Study 5
+Site 28,Subject 108,13.0,AUS,None
+Site 281,Subject 2364,9.0,DEU,None
+Site 281,Subject 2365,10.0,DEU,None
+Site 281,Subject 2366,2.0,DEU,None
+Site 281,Subject 9328,3.0,DEU,None
+Site 281,Subject 9329,2.0,DEU,None
+Site 281,Subject 9333,6.0,DEU,None
+Site 29,Subject 109,45.0,USA,Study 10
+Site 290,Subject 2406,34.0,ISR,Study 5
+Site 3,Subject 102,0.0,AUS,None
+Site 300,Subject 2512,6.0,ESP,Study 5
+Site 307,Subject 2569,57.0,ESP,Study 5
+Site 307,Subject 2570,2.0,ESP,Study 5
+Site 314,Subject 2585,8.0,NLD,Study 5
+Site 316,Subject 2598,29.0,KOR,Study 8
+Site 322,Subject 2630,5.0,CAN,Study 5
+Site 322,Subject 2633,8.0,CAN,Study 5
+Site 326,Subject 2652,9.0,USA,None
+Site 326,Subject 2653,25.0,USA,None
+Site 326,Subject 2654,30.0,USA,None
+Site 327,Subject 2665,30.0,USA,None
+Site 327,Subject 2666,17.0,USA,None
+Site 333,Subject 2721,12.0,USA,Study 5
+Site 335,Subject 2733,2.0,USA,Study 5
+Site 336,Subject 2740,9.0,USA,Study 5
+Site 337,Subject 2745,45.0,USA,Study 5
+Site 338,Subject 2751,12.0,USA,Study 5
+Site 338,Subject 2752,5.0,USA,Study 5
+Site 361,Subject 2879,20.0,CZE,Study 8
+Site 365,Subject 2913,21.0,FRA,Study 8
+Site 365,Subject 2915,42.0,FRA,Study 8
+Site 365,Subject 2921,70.0,FRA,Study 8
+Site 373,Subject 2996,9.0,FRA,Study 8
+Site 373,Subject 2998,9.0,FRA,Study 8
+Site 374,Subject 3000,24.0,FRA,Study 8
+Site 374,Subject 3001,16.0,FRA,Study 8
+Site 375,Subject 3021,36.0,FRA,Study 8
+Site 375,Subject 3027,36.0,FRA,Study 8
+Site 375,Subject 3030,62.0,FRA,Study 8
+Site 375,Subject 3032,29.0,FRA,Study 8
+Site 375,Subject 3033,20.0,FRA,Study 8
+Site 376,Subject 3041,31.0,FRA,Study 8
+Site 38,Subject 148,373.0,CHN,Study 2
+Site 38,Subject 149,372.0,CHN,Study 2
+Site 389,Subject 3140,9.0,DEU,Study 8
+Site 40,Subject 157,25.0,USA,Study 10
+Site 40,Subject 159,10.0,USA,Study 10
+Site 408,Subject 3195,17.0,GRC,Study 8
+Site 415,Subject 3221,17.0,ITA,Study 8
+Site 415,Subject 3224,17.0,ITA,Study 8
+Site 417,Subject 3227,21.0,ITA,Study 8
+Site 423,Subject 6491,2.0,CHN,None
+Site 425,Subject 3256,17.0,ROU,Study 8
+Site 432,Subject 3275,37.0,GBR,Study 8
+Site 436,Subject 3320,10.0,MYS,Study 8
+Site 463,Subject 3520,8.0,JPN,Study 10
+Site 466,Subject 3544,3.0,FRA,None
+Site 466,Subject 3546,3.0,FRA,None
+Site 48,Subject 221,1.0,KOR,None
+Site 49,Subject 234,2.0,KOR,None
+Site 5,Subject 3566,9.0,TUR,None
+Site 50,Subject 274,1.0,KOR,None
+Site 50,Subject 283,31.0,KOR,None
+Site 507,Subject 3727,20.0,CHN,None
+Site 507,Subject 3728,17.0,CHN,None
+Site 51,Subject 296,3.0,KOR,None
+Site 51,Subject 301,8.0,KOR,None
+Site 52,Subject 311,16.0,KOR,None
+Site 52,Subject 47592,9.0,KOR,None
+Site 52,Subject 47596,16.0,KOR,None
+Site 52,Subject 47597,3.0,KOR,None
+Site 521,Subject 8892,3.0,DEU,None
+Site 522,Subject 8927,4.0,DEU,None
+Site 524,Subject 3778,3.0,ISR,None
+Site 530,Subject 35413,2.0,PRT,None
+Site 536,Subject 3823,14.0,USA,None
+Site 558,Subject 3890,3.0,TUR,None
+Site 6,Subject 12,17.0,AUT,Study 1
+Site 875,Subject 8979,17.0,DEU,None
+Site 875,Subject 8983,2.0,DEU,None
+Site 880,Subject 9117,17.0,DEU,None
+Site 883,Subject 9191,61.0,DEU,None
+Site 884,Subject 9217,15.0,DEU,None
+Site 884,Subject 9218,7.0,DEU,None
+Site 884,Subject 9219,8.0,DEU,None
+Site 884,Subject 9220,2.0,DEU,None
+Site 888,Subject 9290,57.0,DEU,None
+Site 888,Subject 9292,53.0,DEU,None
+Site 888,Subject 9295,46.0,DEU,None
+Site 888,Subject 9296,38.0,DEU,None
+Site 888,Subject 9297,9.0,DEU,None
+Site 888,Subject 9299,7.0,DEU,None
+Site 888,Subject 9300,9.0,DEU,None
+Site 888,Subject 9302,13.0,DEU,None
+Site 888,Subject 9303,6.0,DEU,None
+Site 888,Subject 9304,2.0,DEU,None
+Site 904,Subject 9600,3.0,DEU,None
+Site 955,Subject 13670,9.0,CAN,None
+Site 955,Subject 38951,8.0,CAN,None
+Site 955,Subject 38952,16.0,CAN,None
+Site 963,Subject 13826,79.0,CAN,None
+Site 963,Subject 13835,16.0,CAN,None
