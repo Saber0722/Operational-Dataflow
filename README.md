@@ -1,6 +1,6 @@
 # Operational Dataflow
 
-Comprehensive repository for NEST operational data aggregation, validation, and analysis pipelines. The project collects, cleans, aggregates, and analyzes clinical operational datasets (EDC metrics, missing pages, lab issues, SAE dashboards, coding reports, etc.) and produces reusable aggregated CSVs and analytical notebooks.
+Comprehensive repository for NEST operational data (2026) aggregation, validation, and analysis pipelines. The project collects, cleans, aggregates, and analyzes clinical operational datasets (EDC metrics, missing pages, lab issues, SAE dashboards, coding reports, etc.) and produces reusable aggregated CSVs and analytical notebooks.
 
 This README documents the repository layout, how to set up the environment, and gives a detailed description of each notebook and the main documentation files.
 
