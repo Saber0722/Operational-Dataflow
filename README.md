@@ -21,8 +21,6 @@ Edge cases considered: missing or partially-anonymized input files, very large r
   - `intermediate/` — produced aggregated CSVs used downstream (examples: `compiled_edrr_agg.csv`, `sae_dashboard_agg.csv`, etc.).
   - `master/` — (intended) master tables and canonical datasets.
 - `docs/` — project artifacts, phase reports, design docs and appendices.
-- `src/` — helper code, loaders, and aggregation utilities (organize reusable functions called by notebooks).
-- `notebooks/` — collection of analysis and aggregation notebooks (see next section).
 - `requirements.txt` — Python packages used by notebooks.
 
 ---
