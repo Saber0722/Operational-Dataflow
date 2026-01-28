@@ -164,29 +164,3 @@ Tips:
 
 ---
 
-## Quality gates
-
-- Build: N/A (not a compiled project). PASS if `pip install -r requirements.txt` succeeds locally.
-- Lint / Typecheck: Not enforced for notebooks; consider adding pre-commit hooks and flake8/ruff for `src/` code.
-- Tests: No automated tests included. Recommended next step: add a tiny pytest suite for key loader functions under `src/`.
-
----
-
-## Next steps and suggestions
-
-- Add a small `src/README.md` describing helper modules and public functions.
-- Add a `CONTRIBUTING.md` with data access rules and notebook execution order.
-- Add simple unit tests for core `src/loaders/*` functions and run them in CI.
-
----
-
-If you'd like, I can:
-- generate a `docs/index.md` that links each notebook and displays short descriptions, or
-- create minimal unit tests for `src/loaders` and a test runner.
-
-Contact / maintenance
-- Maintainer: repository owner and primary contributors (see Git history).
-
----
-
-End of README.
