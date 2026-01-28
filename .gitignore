@@ -1,6 +1,6 @@
-tmp
-docs/phases/Phase 1.pdf
+tmp/
 docs/6932c39b908b6_detailed_problem_statements_and_datasets.zip
 docs/6932c39b908b6_detailed_problem_statements_and_datasets
 data/raw
-venv
+venv/
+docs/phases/model_result.md
